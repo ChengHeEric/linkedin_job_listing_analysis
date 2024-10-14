@@ -18,8 +18,8 @@ import matplotlib.pyplot as plt
 url = "https://www.linkedin.com/jobs/search/?currentJobId=3976163471&distance=10&f_E=1%2C2%2C3&geoId=106504367&keywords=data%20analyst&origin=JOB_SEARCH_PAGE_JOB_FILTER&refresh=true&spellCorrectionEnabled=true"
 
 # Set up your LinkedIn credentials
-USERNAME = 'hecheng050014@outlook.com'
-PASSWORD = 'Hcfaw123,.123'
+USERNAME = 'example username'
+PASSWORD = 'your password'
 
 # Setup WebDriver 
 driver = webdriver.Edge()
